@@ -1,0 +1,5 @@
+| Promo_Name | Avg_Price_Before | Avg_Price_During | Avg_Qty_Before | Avg_Qty_During | Price_Elasticity |
+| ---------- | ---------------- | ---------------- | -------------- | -------------- | ---------------- |
+| Promo 1    | 45.20            | 40.00            | 320            | 500            | -2.4             |
+| Promo 2    | 47.00            | 42.50            | 310            | 350            | -0.8             |
+| Promo 3    | 46.10            | 40.50            | 290            | 480            | -1.9             |
