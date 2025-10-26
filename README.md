@@ -92,8 +92,4 @@ produce the exact formulas in Excel, or
 
 provide a ready-to-run pandas script to compute everything and make the charts, or
 
-simplify further into a one-slide report layout.
 
-Which of those would you like next?
-
-You said:# Sales-Case-Study-2
